@@ -11,6 +11,7 @@ This repository documents my journey solving mathematical problems using Python.
 ## 🛠️ Skill Forge
 | Date | Problem | Key Concept | Code | Status|
 | :--- | :--- | :--- | :--- | :--- |
+|      | Multiiples of 3 or 5 |      | [p1](p1.py) | ✅ Solved |
 | 251117 | Problem Zero | - range(start, stop, step) <br> - sum() | [problem zero](problem_zero.py) | ✅ Solved |
 
 
